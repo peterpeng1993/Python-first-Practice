@@ -135,7 +135,7 @@
 
 ## 练习1
 * 安装Anaconda并更新它以便拥有   所有包的最新版本。 我们将使用Python 3.4（而不是以前的Python 2.7版本）。
-* 通过键入以下命令启动Spyder并计算76：     
+* 通过键入以下命令启动Spyder并计算7^6：     
   
   x = 7 ** 6   打印（x）
 
@@ -236,8 +236,8 @@
 import  decimal  
 # import  the  libray  "decimal"    
 # display  2  decimal  precision
-print (round (3*1415 ,   2))   #  result  3. 14
-print (round (9 .995 ,   2))   #  result  9. 99
+print (round (3.1415 ,   2))   #  result  3. 14
+print (round (9.995 ,   2))   #  result  9. 99
 
 #call   function   "Decimal "  from lib "decimal"
 print (decimal.Decimal (9.995))
